@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  jupyter:
+    build: .
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./notebooks:/app
+    environment:
+      - JUPYTER_ENABLE_LAB=yes
+      - JUPYTER_PASSWORD=1478
+    restart: unless-stopped
