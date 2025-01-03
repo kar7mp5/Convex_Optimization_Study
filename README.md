@@ -1,6 +1,6 @@
 # Convex_Optimization_Study
 
-This repositories was written based on Professor [Kim Jong-han's Convex Optimization class](https://jonghank.github.io/ase7030.html).  
+This repository was written based on Professor [Kim Jong-han's Convex Optimization class](https://jonghank.github.io/ase7030.html).  
 It is recommended to consult with Professor Kim Jong-han when using it elsewhere.
 
 ## Table of Contents
